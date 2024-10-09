@@ -1,0 +1,60 @@
+{
+  "user": [
+    {
+      "id": "3443",
+      "name": "Rama Mosley",
+      "email": "kiqumyvag@mailinator.com",
+      "city": "baruch",
+      "hobby": [
+        "music",
+        "dance"
+      ]
+    },
+    {
+      "id": "264e",
+      "name": "Cally Flowers",
+      "email": "mavafa@mailinator.com",
+      "hobby": [
+        "dance"
+      ],
+      "city": "baruch"
+    },
+    {
+      "id": "3c42",
+      "name": "simran kumavat",
+      "email": "simran@gmail.com",
+      "hobby": [
+        "dance"
+      ]
+    },
+    {
+      "id": "6408",
+      "name": "simran kumavat",
+      "email": "simran@gmail.com",
+      "hobby": [
+        "music"
+      ],
+      "city": "ahemdabad"
+    },
+    {
+      "id": "4350",
+      "name": "simran kumavat",
+      "email": "simran@gmail.com",
+      "city": "ahemdabad",
+      "hobby": [
+        "dance"
+      ]
+    },
+    {
+      "id": "970e",
+      "name": "simran kumavat",
+      "email": "simran@gmail.com",
+      "city": "ahemdabad",
+      "hobby": [
+        "dance"
+      ]
+    }
+  ],
+  "Admin": [],
+  "profile": {}
+}
